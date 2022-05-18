@@ -1,6 +1,6 @@
 # Diamond Price Prediction Project:
 In this project i train three models to predict price diamond that dependent on many features(weight ,quality of the cut,clarity ,length ,width,depth,...,etc).
-i follow some steps to train these models :
+** I follow some steps to train these models :
 *  read the data from kaggle (https://www.kaggle.com/competitions/shai-club).
 *  visulize this data.
 * remove duplicate data or rows,faulty values( dimensionless[2-D or 1-D] diamonds ),and outliers using IQR.
